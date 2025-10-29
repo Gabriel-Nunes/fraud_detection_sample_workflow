@@ -612,3 +612,4 @@ FodyWeavers.xsd
 *.csv
 !bank_transactions_fraud_detection.ipynb
 
+*.zip
