@@ -3,7 +3,7 @@
 ## 🏦 Detecting Fraud in Bank Transactions
 
 This notebook demonstrates the basic development of a predictive system for detecting fraudulent bank transactions using machine learning techniques.
-The project aims to simulate a realistic fraud detection workflow — from data generation and preprocessing to model evaluation and interpretation.
+The project aims to simulate a realistic fraud detection basic workflow — from data preprocessing to model evaluation and interpretation.
 
 ### 🚩 Objective
 
